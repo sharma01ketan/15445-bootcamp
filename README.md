@@ -33,7 +33,7 @@ and are looking to refresh your knowledge, it is probably okay to start by
 reading the files on concepts you are unfamiliar about.
 
 ### References and Move Semantics
-- `references.cpp`: Covers C++ references.
+- `references.cpp`: Covers C++ references. -- DONE
 - `move_semantics.cpp`: Covers C++ move semantics.
 - `move_constructors.cpp`: Covers C++ class move constructors and move assignment operators.
 
